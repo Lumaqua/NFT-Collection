@@ -20,7 +20,7 @@ export default function Home() {
   const [theOwner, setTheOwner] = useState("0");
 
   /**
-   * presaleMint: Mint an NFT during the presale
+   * presaleMint: Mint an NFT during the presale!
    */
   const presaleMint = async () => {
     try {
