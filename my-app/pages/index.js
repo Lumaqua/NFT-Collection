@@ -394,7 +394,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Exclusive NFTs for Faiz's Friends</title>
+        <title>Exclusive NFTs for Faiz&apos;s Friends</title>
         <h1>{theOwner}</h1>
         <meta name="description" content="Whitelist-Dapp" />
         <link rel="icon" href="/favicon.ico" />
